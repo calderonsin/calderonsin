@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @calderonsin
+- 👀 I’m interested in make chicha and software ...
+- 🌱 I’m currently learning netcore...
+- 📫 How to reach me: https://www.linkedin.com/in/juccalderondo/...
+
+<!---
+calderonsin/calderonsin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
